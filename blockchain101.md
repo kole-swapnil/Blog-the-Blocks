@@ -14,7 +14,7 @@ Just a chain of blocks. **No, it's much more** let's dive into blockchain to kno
 #### 1. Blocks in a blockchain
 Blocks in blockchain hold batches of valid transactions that are hashed and encoded into a Merkle tree data structure. Each block includes the cryptographic hash of the prior block in the blockchain, linking the two. 
 
-![Structure of blocks](capture1.png)
+![Structure of blocks](./capture1.png)
 #### 2. Chaining of Blocks
 The linked blocks form a chain. This iterative process confirms the integrity of the previous block, all the way back to the original genesis block. Each block also has a timestamp and a nonce associated with it. Therefore all the data inside blockchain becomes immutable.
 
@@ -41,7 +41,7 @@ Ethereum is an open software platform based on Blockchain technology that enable
 #### 5. Smart Contracts
 A smart contract is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible.
 
-![Smart Contract Execution](capture3.png)
+![Smart Contract Execution](./capture3.png)
 
 *32 bit or 64 bit? Step into the Future with __256 bit__ machines.*
 
