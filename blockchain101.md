@@ -41,7 +41,7 @@ Ethereum is an open software platform based on Blockchain technology that enable
 #### 5. Smart Contracts
 A smart contract is a computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract. Smart contracts allow the performance of credible transactions without third parties. These transactions are trackable and irreversible.
 
-![Smart Contract Execution](./Capture3.PNG)
+![Smart Contract Execution](./capture3.PNG)
 
 *32 bit or 64 bit? Step into the Future with __256 bit__ machines.*
 
